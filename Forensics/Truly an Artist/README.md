@@ -13,7 +13,7 @@ Forensics
 >Who created this?
 
 ## Solution
-$ exiftool 2018.png                                                                                                                                                                            
+```$ exiftool 2018.png                                                                                                                                                                            
 ExifTool Version Number         : 10.10
 File Name                       : 2018.png
 Directory                       : .
@@ -35,7 +35,7 @@ Interlace                       : Noninterlaced
 Artist                          : picoCTF{look_in_image_13509d38}
 Image Size                      : 1200x630
 Megapixels                      : 0.756
-
+```
 
 ### Flag
 `flag` picoCTF{look_in_image_13509d38}
